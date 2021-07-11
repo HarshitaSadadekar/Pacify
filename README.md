@@ -1,4 +1,6 @@
 # Pacify
+![image](https://user-images.githubusercontent.com/74008062/125184245-da650980-e239-11eb-8629-d14386b5e966.png)
+
 
 A canopy of Calmness. Pacify as the name suggests is a place that can help calm the extreme emotions today's generation is prone to. It uses the principle of thought sharing for which a community page is developed where people in a similar situation can help each other to confine each other loneliness.
 
